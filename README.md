@@ -1,4 +1,4 @@
-# DataAnalysisAcademicProject
+# Data Analysis Academic Project
 
 ## DATA SET DESCRIPTION
 
